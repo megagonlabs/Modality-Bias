@@ -1,1 +1,1 @@
-# Mixed Signals: Decoding VLMs' Bias in Vision-Language Conflict
+# MMixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict
