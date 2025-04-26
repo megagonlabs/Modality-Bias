@@ -1,7 +1,7 @@
 # Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict
 This repository is the implementation for the paper "[Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict](https://arxiv.org/pdf/2504.08974)"
 
-![alt text](https://github.com/rit-git/Modality_Bias/blob/main/figs/overview-vlm.png)
+![alt text](https://github.com/megagonlabs/Modality-Bias/blob/main/figs/overview-vlm.png)
 
 ---
 
